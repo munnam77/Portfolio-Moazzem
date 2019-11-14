@@ -52,6 +52,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-<div style="text-align: justify"> Hi. My name is Moazzem Hossain. I am a budding deep learning & computer vision enthusiast. My main research interests lie at Computer Vision, Human Activity Recognition and Human pose estimation. I am currently working as a Research Assistant at University of Hyogo in Japan with <a href="https://scholar.google.com/citations?user=BDB_x9cAAAAJ&hl=en">Prof. Syoji Kobashi</a> and [Dr. Saadia Binte Alam](https://www.researchgate.net/profile/Saadia_Alam).
+<div style="text-align: justify"> Hi. My name is Moazzem Hossain. I am a budding deep learning & computer vision enthusiast. My main research interests lie at Computer Vision, Human Activity Recognition and Human pose estimation. I am currently working as a Research Assistant at University of Hyogo in Japan with Prof. Syoji Kobashi and Dr. Saadia Binte Alam.
 Prior to that, I studied computer science and engineering at International University of Business Agriculture & Technology in Bangladesh, where I had a major emphasis on algorithm design and analysis, theoretical computer science, programming language theory, artificial intelligence, machine learning. </div>
 
