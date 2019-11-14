@@ -6,7 +6,7 @@ date: "2018-06-25 T00:00:00Z"
 doi: "https://doi.org/10.1109/SMC.2018.00074"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-01-17T00:00:00Z"
+publishDate: "2019-02-14 T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -60,5 +60,5 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+#Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
