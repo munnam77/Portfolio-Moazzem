@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://www.u-hyogo.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed Computer Vision, Machine Learning and Artificial Intelligence.
+bio: My research interests includes Computer Vision, Machine Learning and Artificial Intelligence.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -52,9 +52,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
+<div style="text-align: right"> Hi. My name is Moazzem Hossain. I am a budding deep learning & computer vision enthusiast. My main research interests lie at Computer Vision, Human Activity Recognition and Human pose estimation. I am currently working as a Research Assistant at University of Hyogo in Japan with Prof. Syoji Kobashi and Dr. Saadia Binte Alam.
+Prior to that, I studied computer science and engineering at International University of Business Agriculture & Technology in Bangladesh, where I had a major emphasis on algorithm design and analysis, theoretical computer science, programming language theory, artificial intelligence, machine learning. </div>
 
-Hi. My name is Moazzem. I am a budding machine learning & computer vision researcher. My main research interests lie at the intersection of Bayesian deep learning, approximate inference, and probabilistic models with intractable likelihoods.
-
-I am currently working as a Research Assistant at University of Hyogo in Hyogo,Japan working with Prof. Syoji Kobashi and Dr. Saadia Binte Alam.
-
-Prior to that, I studied computer science at International University of Business Agriculture & Technology in Bangladesh, where I had a major emphasis on algorithm design and analysis, theoretical computer science, programming language theory, artificial intelligence, machine learning, and a minor emphasis on mathematics and statistics.
