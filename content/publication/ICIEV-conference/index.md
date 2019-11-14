@@ -1,7 +1,6 @@
 ---
 title: "Real-time Surgical Tools Recognition in Total Knee Arthroplasty Using Deep Neural Networks"
 authors:
-- admin
 - Moazzem Hossain
 date: "2018-06-25 T00:00:00Z"
 doi: "https://doi.org/10.1109/SMC.2018.00074"
@@ -17,7 +16,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *2018 Joint 7th International Conference on Informatics, Electronics & Vision (ICIEV) and 2018 2nd International Conference on Imaging, Vision & Pattern Recognition (icIVPR)*
-publication_short: In *ICIEV, Kitakyushu, Japan*
+publication_short: In  *ICIEV* Kitakyushu, Japan
 
 abstract: Total knee arthroplasty (TKA) is a surgical procedure to mitigate knee pain and improve functions for people with knee arthritis. The procedure is complicated due to the different surgical tools used in the stages of surgery. Real-time surgical tool recognition can be used to simplify surgical procedures for the surgeon. Also, the presence and movement of tools in surgery are crucial information for the recognition of the operational phase and to identify the surgical workflow. Therefore, this research proposes a real-time system for recognizing surgical tools using a convolutional neural network (CNN). Surgeons wearing smart glasses can see essential information about tools during surgery that may reduce the complication of the procedures. The performance of the proposed method was evaluated by using mean average precision (MAP) with conventional methods which are fast R-CNN and deformable part models. We achieved 87.6% mAP which is better in comparison to the existing methods. With the additional improvements of our proposed method, it can be a future point of reference, also the baseline for operational phase recognition.
 
@@ -60,16 +59,6 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
----
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
