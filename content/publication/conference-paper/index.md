@@ -1,7 +1,6 @@
 ---
 title: "Real-Time Orthopedic Surgery Procedure Recognition Method with Video Images from Smart Glasses Using Convolutional Neural Network"
 authors:
-- admin
 - Moazzem Hossain
 date: "2018-10-01T00:00:00Z"
 doi: "https://doi.org/10.1109/SMC.2018.00074"
@@ -17,7 +16,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *2018 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*
-publication_short: In *STC*
+publication_short: In *IEEE SMC* Miyazaki,Japan
 
 abstract: At present, orthopedic surgery has a large variety of surgical techniques. Procedures are complicated, and many types of equipment have been using in the surgery. So, operating room nurses who deliver surgical instruments to surgeon are supposed to be forced to incur a heavy burden. Although there is a navigation system for assisting surgeons in artificial joint replacement surgery, but no system exists for assisting operating room nurses. This work proposes a computer-aided navigation system that indicates the current procedure and procedure progress for nurses, and also instructs nurses to prepare surgical instruments to be used in the next procedure using smart glasses. Firstly, the system estimates the current status of the surgery procedure using a convolutional neural network (CNN) by utilizing real-time video images taken from smart glasses which was worn by operating surgeon. Then, the system indicates nurses the surgical instrument to be used at the next procedure in the smart glass worn by the nurses. The system was implemented with the object detection technology and the augmented reality. Experiment results demonstrated a satisfactory performance of our proposed system of recognizing surgery procedures.
 
