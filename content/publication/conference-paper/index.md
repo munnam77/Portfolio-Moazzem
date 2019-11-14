@@ -42,7 +42,7 @@ url_code: 'https://github.com/munnam77/Surgical-Tools-Recognition-System'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**SMC**](http://smc-2018.sakura.ne.jp/hp/wp-content/uploads/2018/10/unnamed.jpg)'
   focal_point: ""
   preview_only: false
 
